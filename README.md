@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 ## 🤝 Let's Connect!
 - 💼 Open to collaborations and interesting opportunities
 - 📧 Reach out via [Email] mikewaweru@gmail.com
-- 🌐 Check out my portfolio: [your-website.com](https://your-website.com)
 
 
 ---
